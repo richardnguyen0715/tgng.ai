@@ -209,3 +209,7 @@ __marimo__/
 
 # Python Environment
 .venv/
+
+# Visual Studio Config
+.vscode/
+.vscode/settings.json
